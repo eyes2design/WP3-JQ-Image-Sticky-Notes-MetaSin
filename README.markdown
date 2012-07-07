@@ -1,29 +1,20 @@
-## This is a fork of jQuery Image Annotation plugin with PHP support
-
+## This is a fork
 Original author is Chris from [http://blog.flipbit.co.uk](http://blog.flipbit.co.uk)
-
-Project webpage can be found at [http://code.google.com/p/jquery-image-annotate/](http://code.google.com/p/jquery-image-annotate/)
-
+Project webpage can be found at [https://github.com/stas/jquery-image-annotate-php-fork](https://github.com/stas/jquery-image-annotate-php-fork)
 Code uses the same licence the plugin was released: GPL 2.
+###  His Fork Been DEAD for 3 Years
 
 
 ### How it works
 
-I wrote a class which stores annotations into a csv file (php-api/data.csv)
-with full support to delete, save and get the information from it to server 
-json.
-
-
-### Who uses it?
-
-* [Romanian Free Software Group](http://softwareliber.ro) for it's [FLOSSCamp Project](http://camp.softwareliber.ro/2009/membri)
 
 
 ### Future plans
-
-I hope this fork to be merged into upstream release, otherway I'm not sure I'll have enough time to support it.
+Re-edit for wordpress 3.0 and up
+Enhance it with stipple or better
+Create a way write tag data and user notes to file.
+Embed a paths into noted images that will be readable from Windows, Linux, Macs, and other wordpress sites that maycopy the same image.
 
 
 ### Requirements
-
-* PHP 5
+* PHP 5 and luck.
